@@ -1,0 +1,2 @@
+# 260913_JAXA_Bearing
+Kaggle_JAXA_Bearing
