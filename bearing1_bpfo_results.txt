@@ -1,0 +1,17 @@
+rotation_frequency_hz=33.33333333
+bpfo_hz=237.05387803
+bpfi_hz=296.27945530
+ftf_hz=14.81586738
+bsf_hz=148.23450675
+2004-02-12T10:32:39 2004.02.12.10.32.39
+  theoretical=237.0539 observed_peak=231.4453 amplitude=0.00640287
+  theoretical=474.1078 observed_peak=476.5625 amplitude=0.00240014
+  theoretical=711.1616 observed_peak=707.0312 amplitude=0.00141382
+2004-02-15T20:32:39 2004.02.15.20.32.39
+  theoretical=237.0539 observed_peak=231.4453 amplitude=0.00343840
+  theoretical=474.1078 observed_peak=470.7031 amplitude=0.00364853
+  theoretical=711.1616 observed_peak=704.1016 amplitude=0.00109305
+2004-02-19T06:02:39 2004.02.19.06.02.39
+  theoretical=237.0539 observed_peak=231.4453 amplitude=0.01910267
+  theoretical=474.1078 observed_peak=466.7969 amplitude=0.00977320
+  theoretical=711.1616 observed_peak=717.7734 amplitude=0.01722142

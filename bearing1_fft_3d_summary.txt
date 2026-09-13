@@ -1,0 +1,12 @@
+files=984
+samples_per_file=20480
+sampling_rate_hz=20000
+fft_bins_full=10241
+frequency_range_hz=0.000000-10000.000000
+display_frequency_points=1536
+display_frequency_resolution_approx_hz=6.835938
+time_start=2004-02-12T10:32:39
+time_end=2004-02-19T06:22:39
+global_max_amplitude=0.17886193
+global_max_time=2004-02-19T04:52:39
+global_max_frequency_hz=1846.679688
